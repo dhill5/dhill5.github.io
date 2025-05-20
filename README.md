@@ -1,4 +1,3 @@
-index.html
 <h1>Welcome</h1>
 <h3>Donjanae (Donnie) Hill</h3>
 <h3>EMAIL: dhill5@my.waketech.edu</h3>
