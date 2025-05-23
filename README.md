@@ -12,7 +12,7 @@
 <p>My current hobbies include practicing Yoga, watching movies, and trying new restaurants.</p>
 
 ## Websites I Recommend
-[Front End Practice] (https://www.frontendpractice.com/projects/oh-studio)
+[Front End Practice] (https://www.frontendpractice.com)
 
 <p>Highly recommend this website to practice front end coding. There are a lot of challenges and projects to complete. The website helps me alot with front end development learning</p>
 
