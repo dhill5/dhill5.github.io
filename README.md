@@ -3,7 +3,7 @@
 <p>dhill5@my.waketech.edu</p>
 <hr>
 <p>This is my school Github account. It will be used solely for holding my assignments in CTI 110</p>
-_____
+<hr>
 
 # About Me 
 <i>budding developer</i>
@@ -20,4 +20,4 @@ _____
 
 <p> This site is a great resource for public artwork. I discovered this website when sourcing images for digital collage making.</p>
 
-______
+_______

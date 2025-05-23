@@ -3,7 +3,6 @@
 <p>dhill5@my.waketech.edu</p>
 <hr>
 <p>This is my school Github account. It will be used solely for holding my assignments in CTI 110</p>
-_____
 
 # About Me 
 <i>budding developer</i>
