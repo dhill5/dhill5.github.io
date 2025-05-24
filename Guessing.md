@@ -37,11 +37,11 @@ If valid, the game compares user input to the randomly generated number.
 
 6. **TOO HIGH**
 
-If user input is too high, the message "TOO HIGH" is displayed. User is asked to guess again 
+If user input is too high, the message "TOO HIGH" is displayed. User is asked to input again 
 
 7. **TOO LOW**
 
-If user input is too low, the message "TOO LOW" is displayed. User is asked to try again.
+If user input is too low, the message "TOO LOW" is displayed. User is asked to input again.
 
 8. **Correct** 
 
