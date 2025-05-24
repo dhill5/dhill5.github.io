@@ -1,4 +1,4 @@
-'''mermaid
+```mermaid
 flowchart TD
 A([Start])--> B[Random Number Generated]
 B --> C[User Input Required]
@@ -8,4 +8,6 @@ D --> |YES| F{Compare User Input to Generated Number}
 F --> |TOO HIGH| G['TOO HIGH' DISPLAYED]
 F --> |TOO LOW| H['TOO LOW' DISPLAYED]
 F --> |CORRECT| I([END])
-'''
+G --> C
+H --> C
+``` 
