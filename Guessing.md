@@ -49,4 +49,4 @@ If the user input is the same number as the randomly generated number, a "Correc
 
 9. **End**
 
-The game closes one the correct number is inputted. 
+The game closes once the correct number is inputted. 
