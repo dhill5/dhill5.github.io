@@ -2,9 +2,9 @@
 flowchart TD
 A([Start])--> B[Random Number Generated]
 B --> C[User Input Required]
-C --> D{Input Valid?}
+C --> D(Input Valid?)
 D --> |NO| E[ERROR MESSAGE]
-D --> |YES| F{Compare User Input to Generated Number}
+D --> |YES| F(Compare User Input to Generated Number)
 F --> |TOO HIGH| G['TOO HIGH' DISPLAYED]
 G --> C
 F --> |TOO LOW| H['TOO LOW' DISPLAYED]
