@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Personal Introduction</title>
+        <style>
+            body {
+                background-color: #bcb893;
+            }
+            h1{
+                color: #474329;
+            }
+            p{
+                color: #332c0f;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>My name is Donnie</h1>
+        <p>I'm a budding developer; I'm starting this process in CTI 110. I will continue this fall in course CSC 121. I hope to make mobile apps in the future. </p>
+    </body>
+</html>
